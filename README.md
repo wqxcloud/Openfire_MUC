@@ -1,4 +1,4 @@
-# pOpenfire
+# Openfire_MUC
 Openfire plugins
 
 mucPlugin ： 持久化进入会议室的用户 <br>
