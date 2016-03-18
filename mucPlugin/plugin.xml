@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<class>com.muc.MUCPersistencePlugin</class>
+	<name>MUCPlugin</name>
+	<description>MUC Plugin.</description>
+	<author>http://blog.csdn.net/zaoan_wx</author>
+	<version>1.0.0</version>
+	<date>23/02/2015</date>
+	<minServerVersion>3.9.3</minServerVersion>
+ 
+	<adminconsole></adminconsole>
+</plugin>
